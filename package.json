@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkupme/platforms.git"
+    "url": "git+git@github.com:fkupme/platforms.git"
   },
   "author": "fkupme",
   "license": "ISC",
